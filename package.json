@@ -1,0 +1,10 @@
+{
+  "name": "thatys-cake",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional da Thaty's Cake.",
+  "scripts": {
+    "start": "node serve.mjs",
+    "test": "node check.mjs"
+  }
+}
