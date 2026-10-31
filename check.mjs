@@ -2,6 +2,7 @@ import { access } from 'node:fs/promises';
 
 const requiredFiles = [
   'public/index.html',
+  'public/encomenda.html',
   'public/assets/bolos-editados.png',
   'public/assets/favicon.ico',
   'public/assets/docinhos/misto-editado.png',
