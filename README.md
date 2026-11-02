@@ -1,5 +1,15 @@
 # Thaty's Cake
 
+## Favicon compartilhado
+
+Toda nova pagina em `public/` deve incluir o favicon compartilhado dentro de `<head>`:
+
+```html
+<link rel="icon" type="image/png" href="assets/favicon.png?v=6" sizes="512x512">
+```
+
+Use esse mesmo caminho relativo em `index.html`, `encomenda.html` e nas futuras paginas.
+
 Site estático da Thaty's Cake, pronto para abrir e testar no Visual Studio Code.
 
 ## Abrir no VS Code
